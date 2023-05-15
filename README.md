@@ -1,6 +1,9 @@
 # Ping Pong Pygames
 
-## Este é um projeto simples do famoso jogo Pong implementado em Python usando a biblioteca Pygame.
+### Este é um projeto simples do famoso jogo Pong implementado em Python usando a biblioteca Pygame.
+
+![Fig.gif](Ping-Pong.gif)
+
 
 # Requisitos
 

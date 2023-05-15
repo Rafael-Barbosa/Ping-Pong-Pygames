@@ -58,7 +58,7 @@ python main.py
 # Som 🔊
 ##### O jogo inclui música de fundo e efeitos sonoros para a colisão da bola com as raquetes e para quando um jogador marca um ponto.
 
-## Contribua :)
+## Contribua 😃
 
 1 - Fork it
 

@@ -1,1 +1,1 @@
-# Ping-Pong-Pygames
+# Ping Pong Pygames

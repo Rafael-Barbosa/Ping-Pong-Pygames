@@ -1,4 +1,8 @@
-# Ping Pong Pygames
+
+
+  <h1 align="center">🎮 Ping Pong Pygames 🎮</h1>
+
+
 
 ### Este é um projeto simples do famoso jogo Pong implementado em Python usando a biblioteca Pygame.
 
@@ -7,22 +11,22 @@
 
 # Requisitos
 
-### - Python 3.x
-### - Pygame
+### - Python 3.x 🐍
+### - Pygame 🎮
 
-# Instalação dos Pacotes
+# Instalação dos Pacotes 🔧
 
 ```bash
 pip install -r requirements.txt
 ```
 
-# Executando o jogo
+# Executando o jogo ▶️
 
 ```bash
 python main.py
 ```
 
-# Estrutura do Código
+# Estrutura do Código 🏗️ 
 
 ### O código está dividido em dois arquivos principais:
 
@@ -41,7 +45,7 @@ python main.py
 ## Game
 ##### A classe Game representa o estado geral do jogo. Ela contém a lógica principal do jogo, incluindo o loop do jogo, a detecção de colisões, o controle de pontuação e a manipulação de eventos.
 
-# Controles do Jogo
+# Controles do Jogo 🕹️ 
 ##### Os controles do jogo são os seguintes:
 
 | Jogador 1 | Jogador 2 |
@@ -51,7 +55,7 @@ python main.py
 | A: Mover para a esquerda | Seta para a esquerda: Mover para a esquerda |
 | D: Mover para a direita | Seta para a direita: Mover para a direita |
 
-# Som
+# Som 🔊
 ##### O jogo inclui música de fundo e efeitos sonoros para a colisão da bola com as raquetes e para quando um jogador marca um ponto.
 
 ## Contribua :)
